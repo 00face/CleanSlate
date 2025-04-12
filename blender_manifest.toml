@@ -1,0 +1,22 @@
+schema_version = "1.0.0"
+
+id = "cleanslate"
+version = "0.0.1"
+name = "Clean Slate"
+tagline = "Start with a clean slate"
+maintainer = "00face"
+type = "add-on"
+
+# Documentation URL
+website = "https://tinyurl.com/cleanslatewikigdoc"
+
+# Relevant tags
+tags = ["System"]
+
+# Minimum Blender version required
+blender_version_min = "4.4.0"
+
+# License
+license = [
+    "SPDX:GPL-3.0-or-later",
+]
